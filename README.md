@@ -7,6 +7,6 @@
 [Personal Portfolio Link](https://vincent-truong.vercel.app/)
 
 ## Experiences
-- Innovation Engineering Intern (Software Team): consisting on CI/CD pipelines, Devops, and internal tools development
-- Web Development Intern: web development management and UX/UI design to fit company's mission
+- Innovation Engineering Intern (Software Team): consisting on CI/CD pipelines, Devops, and internal tools development to fix bugs relating with embedded software with microcontrollers on forklifts
+- Web Development Intern: web development management and UX/UI design to have sustainable renewable products fit company's mission 
 - IR Intern: create open source intuitive dashboard to compare multiple institutions from one another with the power of Big Data
