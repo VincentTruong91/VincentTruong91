@@ -10,4 +10,4 @@
 - Innovation Engineering Intern (Software Team): consisting on CI/CD pipelines, Devops, and internal tools development to fix bugs relating with embedded software with microcontrollers on forklifts
 - Web Development Intern: web development management and UX/UI design to have sustainable renewable products fit company's mission 
 - IR Intern: create open source intuitive dashboard to compare multiple institutions from one another with the power of Big Data
-- Coursework: Big Data, Software Engineering, OOP, Data Structures, Algorithms, Compilers, IoT, Linux/Unix, Theory of Computation, etc.
+- Relevant Coursework: Big Data, Software Engineering, OOP, Data Structures, Algorithms, Compilers, IoT, Linux/Unix, Theory of Computation, etc.
